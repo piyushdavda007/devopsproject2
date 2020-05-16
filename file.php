@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <tile>PHP Test</title>
  </head>
- <body>
- <?php echo '<p>Hello World dev1</p>'; ?> 
+ <boy>
+ <?p eco '<p>Hello World dev1</>'; ?> 
  </body>
-</html>
+</htm>
